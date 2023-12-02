@@ -18,11 +18,11 @@ SO THAT our own site is optimized for search engines
 ## Acceptance Criteria
 ```
 Your website must meet accessibility standards. You can achieve this completing the following:
-# Semantic HTML elements can be found throughout the source code
-# HTML elements follow a logical structure independent of styling and positioning
-# Image and icon elements contain accessible alt attributes
-# Heading attributes fall in sequential order
-# Title elements contain a concise, descriptive title
+* Semantic HTML elements can be found throughout the source code
+* HTML elements follow a logical structure independent of styling and positioning
+* Image and icon elements contain accessible alt attributes
+* Heading attributes fall in sequential order
+* Title elements contain a concise, descriptive title
 ```
 ## Getting Started
 Clone the Repository of the challenge from GitHub:
@@ -39,15 +39,15 @@ code [folder name]
 ```
 
 ## Review Starter Code:
-# Familiarize yourself with the existing code provided.
+* Familiarize yourself with the existing code provided.
 
 ## Make Improvements:
 ```
-# Follow the acceptance criteria to implement necessary changes for accessibility.
-# Ensure all links are functioning correctly.
-# Optimize the CSS by consolidating selectors and properties.
-# Organize CSS to follow the semantic structure of HTML elements.
-# Include comments before each element or section in the CSS for clarity.
+* Follow the acceptance criteria to implement necessary changes for accessibility.
+* Ensure all links are functioning correctly.
+* Optimize the CSS by consolidating selectors and properties.
+* Organize CSS to follow the semantic structure of HTML elements.
+* Include comments before each element or section in the CSS for clarity.
 ```
 ## Testing
 ```
@@ -55,16 +55,16 @@ Test the website to ensure it meets the specified accessibility standards
 ```
 ## To successfully complete this challenge, ensure that the following criteria are met:
 ### Accessible HTML:
-        Use semantic HTML elements appropriately.
-        Ensure a logical structure independent of styling.
+        * Use semantic HTML elements appropriately.
+        * Ensure a logical structure independent of styling.
 ### Functional Links:
-        Verify that all links are functioning correctly.
-        Optimized CSS:
+        * Verify that all links are functioning correctly.
+        * Optimized CSS:
 ### Consolidate CSS selectors and properties.
-        Organize CSS to follow the semantic structure of HTML elements.
-        Include comments for clarity before each element or section.
+        * Organize CSS to follow the semantic structure of HTML elements.
+        * Include comments for clarity before each element or section.
 ### Scout Rule:
-        Follow the Scout Rule—leave the code a little cleaner than when you found it.
+        * Follow the Scout Rule—leave the code a little cleaner than when you found it.
 
 ## Commit and push changes to repository:
 ```bash
@@ -73,7 +73,11 @@ git commit -m "Commit message"
 git push origin main
 ```
 ## Deploy your webpage:
-```
+
 Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
-On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
+On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the
+`main` branch as your source.
+Navigate to `<your-github-username.github.io/your-repository-name>` and you will find that your new webpage has gone live!
+For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be 
+<lernantino.github.io/css-demo-site>.
 
