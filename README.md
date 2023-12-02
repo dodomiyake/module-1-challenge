@@ -79,5 +79,5 @@ On the Settings page, scroll down to the GitHub Pages section. Then, in the sect
 `main` branch as your source.
 Navigate to `<your-github-username.github.io/your-repository-name>` and you will find that your new webpage has gone live!
 For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be 
-<lernantino.github.io/css-demo-site>.
+`<lernantino.github.io/css-demo-site>`.
 
