@@ -33,4 +33,11 @@ git clone [repository-url]
 ```bash
 cd module-1-challenge
 ```
+## Add the starter code to the new repo on your computer and open on an Code Editor e.g VS Code.
+```bash
+code [folder name]
+```
+
+## Review Starter Code:
+# Familiarize yourself with the existing code provided.
 
