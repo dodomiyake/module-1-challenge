@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/* Added the nav tag as a proper semantic HTML */
+/* Added the nav tag as a semantic element HTML */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,12 +33,12 @@ body {
     font-size: 20px;
 }
 
-/* Added the nav tag as a proper semantic HTML */
+/* Added the nav tag as a semantic element HTML */
 .header nav ul {
     list-style-type: none;
 }
 
-/* Added the nav tag as a proper semantic HTML */
+/* Added the nav tag as a semantic element HTML */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -164,7 +164,8 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -173,6 +174,12 @@ p {
 }
 
 .social-media-marketing img {
+    max-height: 200px;
+} */
+
+
+
+.content img {
     max-height: 200px;
 }
 
