@@ -1,12 +1,12 @@
 # Module 1 Challenge
 
-In this challenge, our goal is to refactor an existing website for a marketing agency to enhance its accessibility. 
+In this task, our goal is to refactor an existing website for a marketing agency to enhance its accessibility. 
 This is a crucial aspect of web development, ensuring that the website is inclusive and can be easily accessed by 
 people with disabilities using assistive technologies.
 
-## Challenge Overview
+## Task Overview
 Web accessibility is an important consideration for businesses. It opens up your website to a wider audience and 
-improves its search engine ranking. The goal of this challenge is to refactor the existing code, adhering 
+improves its search engine ranking. The goal of this task is to refactor the existing code, adhering 
 to specific accessibility criteria provided in the acceptance criteria section.
 
 ## User Story
@@ -17,7 +17,7 @@ SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
-Your website must meet accessibility standards. You can achieve this completing the following:
+The website must meet accessibility standards. You can achieve this completing the following:
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
 * Image and icon elements contain accessible alt attributes
