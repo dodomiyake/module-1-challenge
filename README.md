@@ -72,4 +72,8 @@ git add .
 git commit -m "Commit message"
 git push origin main
 ```
+## Deploy your webpage:
+```
+Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
 
