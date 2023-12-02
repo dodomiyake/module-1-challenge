@@ -35,7 +35,7 @@ cd module-1-challenge
 ```
 ## Add the starter code to the new repo on your computer and open on an Code Editor e.g VS Code.
 ```bash
-~ code [folder name]
+code [folder name]
 ```
 
 ## Review Starter Code:
@@ -53,10 +53,25 @@ cd module-1-challenge
 ```
 Test the website to ensure it meets the specified accessibility standards
 ```
+## To successfully complete this challenge, ensure that the following criteria are met:
+# Accessible HTML:
+    Use semantic HTML elements appropriately.
+    Ensure a logical structure independent of styling.
+# Functional Links:
+  Verify that all links are functioning correctly.
+  Optimized CSS:
 
-Commit and push changes to repository:
+Consolidate CSS selectors and properties.
+Organize CSS to follow the semantic structure of HTML elements.
+Include comments for clarity before each element or section.
+Scout Rule:
+
+Follow the Scout Rule—leave the code a little cleaner than when you found it.
+
+## Commit and push changes to repository:
 ```bash
 git add .
 git commit -m "Commit message"
 git push origin main
 ```
+
