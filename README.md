@@ -59,8 +59,8 @@ code [folder name]
    * Ensure a logical structure independent of styling.
 ### Functional Links:
    * Verify that all links are functioning correctly.
-   * Optimized CSS:
-### Consolidate CSS selectors and properties.
+### Optimized CSS:
+   * Consolidate CSS selectors and properties.
    * Organize CSS to follow the semantic structure of HTML elements.
    * Include comments for clarity before each element or section.
 ### Scout Rule:
