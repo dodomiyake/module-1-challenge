@@ -42,29 +42,29 @@ code [folder name]
 * Familiarize yourself with the existing code provided.
 
 ## Make Improvements:
-```
+
 * Follow the acceptance criteria to implement necessary changes for accessibility.
 * Ensure all links are functioning correctly.
 * Optimize the CSS by consolidating selectors and properties.
 * Organize CSS to follow the semantic structure of HTML elements.
 * Include comments before each element or section in the CSS for clarity.
-```
+
 ## Testing
-```
-Test the website to ensure it meets the specified accessibility standards
-```
+
+* Test the website to ensure it meets the specified accessibility standards
+
 ## To successfully complete this challenge, ensure that the following criteria are met:
 ### Accessible HTML:
-        * Use semantic HTML elements appropriately.
-        * Ensure a logical structure independent of styling.
+   * Use semantic HTML elements appropriately.
+   * Ensure a logical structure independent of styling.
 ### Functional Links:
-        * Verify that all links are functioning correctly.
-        * Optimized CSS:
+   * Verify that all links are functioning correctly.
+   * Optimized CSS:
 ### Consolidate CSS selectors and properties.
-        * Organize CSS to follow the semantic structure of HTML elements.
-        * Include comments for clarity before each element or section.
+   * Organize CSS to follow the semantic structure of HTML elements.
+   * Include comments for clarity before each element or section.
 ### Scout Rule:
-        * Follow the Scout Rule—leave the code a little cleaner than when you found it.
+   * Follow the Scout Rule—leave the code a little cleaner than when you found it.
 
 ## Commit and push changes to repository:
 ```bash
