@@ -35,9 +35,28 @@ cd module-1-challenge
 ```
 ## Add the starter code to the new repo on your computer and open on an Code Editor e.g VS Code.
 ```bash
-code [folder name]
+~ code [folder name]
 ```
 
 ## Review Starter Code:
 # Familiarize yourself with the existing code provided.
 
+## Make Improvements:
+```
+# Follow the acceptance criteria to implement necessary changes for accessibility.
+# Ensure all links are functioning correctly.
+# Optimize the CSS by consolidating selectors and properties.
+# Organize CSS to follow the semantic structure of HTML elements.
+# Include comments before each element or section in the CSS for clarity.
+```
+## Testing
+```
+Test the website to ensure it meets the specified accessibility standards
+```
+
+Commit and push changes to repository:
+```bash
+git add .
+git commit -m "Commit message"
+git push origin main
+```
