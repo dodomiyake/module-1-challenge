@@ -1,4 +1,4 @@
-# Module 1 Challenge
+# CODE REFACTORING TASK
 
 In this task, our goal is to refactor an existing website for a marketing agency to enhance its accessibility. 
 This is a crucial aspect of web development, ensuring that the website is inclusive and can be easily accessed by 
