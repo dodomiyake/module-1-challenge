@@ -81,4 +81,4 @@ Navigate to `<your-github-username.github.io/your-repository-name>` and you will
 For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be 
 `<lernantino.github.io/css-demo-site>`.
 
-assets/images/Screenshot of webpage.png
+![Screenshot of webpage](https://github.com/dodomiyake/module-1-challenge-code-refactoring/assets/70576110/3e70ea92-d628-4d5b-bbef-889e042e283f)
